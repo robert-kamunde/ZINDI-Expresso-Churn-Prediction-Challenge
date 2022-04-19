@@ -1,6 +1,8 @@
 # ZINDI-Expresso-Churn-Prediction-Challenge
 This was a challenge by ZINDI. I have uploaded the code here only because the challenge was completed and the winners were rewarded.
 
+I have used different approaches to solving the problem noting the scores of the models at the end of each .ipynb file as a comment
+
 Below is the information about the challenge
 
 ############################################################################################################

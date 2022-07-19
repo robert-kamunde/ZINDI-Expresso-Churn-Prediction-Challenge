@@ -5,6 +5,9 @@ I have used different approaches to solving the problem noting the scores of the
 
 Below is the information about the challenge
 
+Download the Train and Test data from below link
+https://zindi.africa/competitions/expresso-churn-prediction/data
+
 ############################################################################################################
 
 Description
